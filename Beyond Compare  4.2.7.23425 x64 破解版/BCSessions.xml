@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCSessions Flags="62074096426014" Version="1" MinVersion="1">
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+					<TTextCompareSession Value="新文件4.json &lt;--> 新文件6.json">
+						<LastModified Value="2026-08-13 15:02:52"/>
+						<Specs>
+							<Left Value="D:\JsonFiles\新文件4.json"/>
+							<Right Value="D:\JsonFiles\新文件6.json"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showNoMod]"/>
+						</State>
+					</TTextCompareSession>
+				</Items>
+			</TSessionFolder>
+			<TTextCompareSession>
+				<State>
+					<DisplayFilter Value="[showNoMod]"/>
+				</State>
+			</TTextCompareSession>
+		</Items>
+	</TSessionFolder>
+</BCSessions>

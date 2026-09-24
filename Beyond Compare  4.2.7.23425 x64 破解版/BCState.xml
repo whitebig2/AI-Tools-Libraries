@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCState Version="1" MinVersion="1">
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPositions>
+			<TViewFrame Value="174;78;1806;962;3"/>
+		</FormPositions>
+	</TBcState>
+	<TCheckForUpdatesState>
+		<Build Value="28398"/>
+		<CheckID Value="83594991232737"/>
+		<LastChecked Value="2026-08-13 13:21:13"/>
+		<MsgBody Value="Beyond Compare version 5 is now available! Visit our &lt;a href='http://www.scootersoftware.com/download?ref=bc4&amp;home=1'>download page&lt;/a>."/>
+		<MsgDate Value="2026-08-13 00:00:00"/>
+		<MsgDays Value="20"/>
+		<MsgDaysDate Value="2026-08-13 00:00:00"/>
+		<MsgTitle Value="VERSION 5 NOW AVAILABLE"/>
+	</TCheckForUpdatesState>
+	<THomeState>
+		<NewExpanded Value="True"/>
+		<SessionType Value="TTextCompareSession"/>
+		<ShowWeb Value="False"/>
+	</THomeState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="D:\JsonFiles\新文件4.json"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="D:\JsonFiles\新文件6.json"/>
+		</RightMRUSpecs>
+	</TTextCompareState>
+</BCState>

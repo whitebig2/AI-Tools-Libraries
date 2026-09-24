@@ -1,0 +1,2 @@
+Antigravity/Antigravity[[:space:]]IDE.exe filter=lfs diff=lfs merge=lfs -text
+*.asar filter=lfs diff=lfs merge=lfs -text
